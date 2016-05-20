@@ -1,5 +1,5 @@
 <?php
-namespace Plugin\RelatedProduct\tests\Web;
+namespace Plugin\RelatedProduct\Tests\Web;
 use Eccube\Tests\Web\Admin\AbstractAdminWebTestCase;
 
 /**
